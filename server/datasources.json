@@ -1,1 +1,1 @@
-{"db":{"host":"localhost","port":27017,"url":"","database":"meetups","password":"","name":"mongoDS","user":"","connector":"mongodb"}}
+{"db":{"host":"localhost","port":27017,"url":"","database":"meetups","password":"","name":"db","user":"","connector":"mongodb"}}
